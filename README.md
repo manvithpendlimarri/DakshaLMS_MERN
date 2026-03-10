@@ -123,4 +123,4 @@ Use the following credentials to test the application features:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-*Created with ❤️ by Raghavendra*
+*Created with ❤️ by Manvith*
